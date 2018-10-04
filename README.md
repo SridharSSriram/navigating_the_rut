@@ -6,4 +6,7 @@ Hopefully, this answers most of your questions.
 
 ## navigating this app:
 
-:fa-bell this is for floor notifications
+:bell: this is for floor notifications
+:heart: this is for wellness services and any other help links
+:fork_and_knife: food options
+:key: locked out?
