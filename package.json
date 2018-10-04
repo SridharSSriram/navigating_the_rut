@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
+  "name": "navigating the rut",
+  "description": "welcome to Rutgers",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Sridhar Sriram",
   "dependencies": {
     "gatsby": "^2.0.0",
     "gatsby-plugin-manifest": "^2.0.2",
@@ -15,7 +15,8 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "rutgers"
   ],
   "license": "MIT",
   "scripts": {
@@ -28,9 +29,5 @@
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "prettier": "^1.14.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
   }
 }
