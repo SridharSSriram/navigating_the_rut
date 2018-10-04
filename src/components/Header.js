@@ -18,7 +18,7 @@ const Header = (props) => (
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('intro')}}><span className="icon fa-key fa-flip-horizontal"></span></a></li>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}><span className="icon fa-heart"></span></a></li>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('work')}}><span className="icon fa-cutlery"></span></a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}><span className="icon fa-bullhorn"></span></a></li>
+                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}><span className="icon fa-bell"></span></a></li>
             </ul>
         </nav>
     </header>
