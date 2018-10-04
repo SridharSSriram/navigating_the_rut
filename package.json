@@ -12,7 +12,6 @@
     "node-sass": "^4.9.3",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
-     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
@@ -23,7 +22,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write '**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
