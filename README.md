@@ -14,3 +14,7 @@ Hopefully, this answers most of your questions.
 <br>
 :bell: this is for floor notifications
 <br>
+
+## Future fixes:
+
+* When users click "x" on each modal window or click outside of modal windows, collapse the open "accordion" texts

@@ -74,7 +74,6 @@ class IndexPage extends React.Component {
     }, 350)
 
   }
-
   handleCloseArticle() {
 
     this.setState({
@@ -102,6 +101,7 @@ class IndexPage extends React.Component {
         this.handleCloseArticle();
       }
     }
+    
   }
   
   render() {
