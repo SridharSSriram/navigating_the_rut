@@ -6,4 +6,4 @@ Hopefully, this answers most of your questions.
 
 ## navigating this app:
 
-@icn-bell this is for floor notifications
+:fa-bell this is for floor notifications
