@@ -18,3 +18,9 @@ hopefully, this answers most of your questions.
 ## future fixes:
 
 * when users click "x" on each modal window or click outside of modal windows, collapse the open "accordion" texts
+
+## for the nerds:
+
+* this app was built in ReactJS with the help of [Gatsby.js](https://www.gatsbyjs.org/)
+
+* shoutout to [this page](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/) for helping me serve this react app through github pages
