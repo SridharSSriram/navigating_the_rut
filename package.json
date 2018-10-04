@@ -12,6 +12,7 @@
     "node-sass": "^4.9.3",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
+     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
@@ -25,6 +26,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "prettier": "^1.14.2"
   },
   "repository": {
