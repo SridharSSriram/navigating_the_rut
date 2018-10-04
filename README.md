@@ -13,3 +13,5 @@ Hopefully, this answers most of your questions.
 :fork_and_knife: food options
 <br>
 :key: locked out?
+
+<i class="fa fa-bell"></i>
