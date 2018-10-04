@@ -6,7 +6,7 @@ hopefully, this answers most of your questions.
 
 ## navigating this app:
 
-Below is an explanation of the different "tabs" you'll see on the app. It's very self-explanatory, so this is much more of courtesy explanation than a necessary one.
+below is an explanation of the different "tabs" you'll see on the app. it's very self-explanatory, so this is much more of courtesy explanation than a necessary one.
 
 :key: instructions for when you're locked out!
 <br>
