@@ -16,7 +16,7 @@ class Main extends React.Component {
           
           <ul className = "fa-ul">
             <li><i className="fa-li fa fa-angle-double-right"></i><h4>8:00am to 5:00pm Weekdays?</h4><p> <i className="fa fa-map-marker"></i>&nbsp;&nbsp; <a href="https://www.google.com/maps/place/Clothier+Hall,+New+Brunswick,+NJ+08901/@40.5033252,-74.4490208,19z/data=!3m1!4b1!4m5!3m4!1s0x89c3c7ab3386b1b7:0x4222e45824a2dedf!8m2!3d40.5033242!4d-74.4484736?hl=en" target="_blank">Go to Clothier Hall</a></p></li>
-            <li><i className="fa-li fa fa-angle-double-right"></i><h4>5:00pm to 8:00pm Weekdays?</h4><p><i className="fa fa-phone"></i>&nbsp;&nbsp;Call the RA on Campus Duty:&nbsp;&nbsp;<a href="tel:+17327356242">+17327356242</a></p></li>
+            <li><i className="fa-li fa fa-angle-double-right"></i><h4>5:00pm to 8:00pm Weekdays?</h4><p><i className="fa fa-phone"></i>&nbsp;&nbsp;Call Campus Duty:&nbsp;&nbsp;<a href="tel:+17327356242">+17327356242</a></p></li>
             <li><i className="fa-li fa fa-angle-double-right"></i><h4>Any other time?</h4><p><i className="fa fa-phone"></i>&nbsp;&nbsp;Call the RA on Duty: &nbsp; <a href="tel:+17325248974">+17325248974</a></p></li>
           </ul>
           {close}
