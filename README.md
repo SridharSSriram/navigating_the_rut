@@ -6,12 +6,11 @@ Hopefully, this answers most of your questions.
 
 ## navigating this app:
 
-:bell: this is for floor notifications
+:key: Instructions for when you're locked out!
 <br>
 :heart: this is for wellness services and any other help links
 <br>
-:fork_and_knife: food options
+:fork_and_knife: food options on Easton Avenue
 <br>
-:key: locked out?
-
-<i class="fa fa-bell"></i>
+:bell: this is for floor notifications
+<br>
