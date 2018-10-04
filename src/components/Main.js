@@ -36,7 +36,7 @@ class Main extends React.Component {
               <ul className = "fa-ul">
                 <li><i className="fa-li fa fa-angle-double-right"></i><p>RUPD:</p></li>
                   <p><i className="fa fa-phone"></i> &nbsp;&nbsp;Emergency: &nbsp;&nbsp;<a href="tel:+1911">911</a></p>
-                  <p><i className="fa fa-commenting-o"></i> &nbsp;&nbsp;Can't Call?:&nbsp;&nbsp; <a href="sms://+69050?body=RUNB">Text "RUNB" to 69050 </a></p>
+                  <p><i className="fa fa-commenting-o"></i> &nbsp;&nbsp;Can't Call?:&nbsp;&nbsp; <a href="sms://+69050">Text "RUNB" to 69050 </a></p>
                   <p><i className="fa fa-phone"></i> &nbsp;&nbsp;Non-emergency:&nbsp;&nbsp; <a href="tel:+17329327211">+17329327211</a></p>
               </ul>
             </div>
@@ -63,7 +63,7 @@ class Main extends React.Component {
                 <li><i className="fa-li fa fa-angle-double-right"></i><p>Health Centers | Make an Appointment | <i className = "fa fa-laptop"></i>&nbsp;&nbsp;<a target = "_blank" href="http://health.rutgers.edu/about-us/hours-locations/">https://tinyurl.com/rhsappt</a></p></li>
                 <li><i className="fa-li fa fa-angle-double-right"></i><p>Suicide Prevention Lifeline: &nbsp;&nbsp; | <i className = "fa fa-phone"></i>&nbsp;&nbsp;<a target = "_blank" href="tel:+18002738255">18002738255</a></p></li>
                 <li><i className="fa-li fa fa-angle-double-right"></i><p>NJ Hope Line: &nbsp;&nbsp; <i className = "fa fa-phone"></i>&nbsp;&nbsp;<a target = "_blank" href="tel:+18556546735">+18556546735</a></p></li>
-                <li><i className="fa-li fa fa-angle-double-right"></i><p>National Crisis Text Line: &nbsp;&nbsp; <i className = "fa fa-phone"></i>&nbsp;&nbsp;<a href="sms:741741">Text KNIGHTS to 741741 (people of color text STEVE)</a></p></li>
+                <li><i className="fa-li fa fa-angle-double-right"></i><p>National Crisis Text Line: &nbsp;&nbsp; <i className = "fa fa-commenting-o"></i>&nbsp;&nbsp;<a href="sms:741741">Text KNIGHTS to 741741 (people of color text STEVE)</a></p></li>
                 
               </ul>
             </div>
