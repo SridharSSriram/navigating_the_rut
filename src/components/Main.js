@@ -142,6 +142,8 @@ class Main extends React.Component {
         <article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Announcements</h2>
            <ul className = "fa-ul">
+
+            <li><i className="fa-li fa fa-angle-double-right"></i><h4>GOOD LUCK WITH MIDTERM SEASON, I KNOW Y'ALL WILL KILL IT</h4></li>
             <li><i className="fa-li fa fa-angle-double-right"></i><h4>OPEN-DOOR POLICY PLSSSSS</h4><p>The floor high-key feels like a ghost town <i className="fa fa-smile-o fa-flip-vertical"></i></p></li>
             <li><i className="fa-li fa fa-angle-double-right"></i><h4>DANIEL'S (S503) BIRTHDAY WEDNESDAY, OCT. 10 </h4></li>
           </ul>
